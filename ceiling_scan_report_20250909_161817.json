@@ -1,0 +1,23 @@
+{
+  "scan_time": "2025-09-09T16:18:17.085424",
+  "total_scanned": 386,
+  "candidates_found": 62,
+  "results": [
+    {
+      "symbol": "EUKYO",
+      "hybrid_score": 83.125,
+      "technical": {
+        "score": 13,
+        "max_score": 13,
+        "signals": [
+          "RSI süper momentum (+15.4)",
+          "Direnç çok yakın (100.0%)",
+          "Volume patlama (4.0x)",
+          "MACD yeni pozitif cross",
+          "Bollinger üst hazır (99%)"
+        ],
+        "type": "technical",
+        "rsi_momentum": 15.386727750597629,
+        "resistance_proximity": 100.0,
+        "volume_ratio": 4.046401891500955,
+        "macd_positive": 

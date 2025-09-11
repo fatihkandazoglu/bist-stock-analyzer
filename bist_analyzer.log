@@ -1,0 +1,1326 @@
+2025-09-03 07:58:33,297 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 07:58:33,298 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 07:58:33,298 - WARNING - Telegram bot token veya chat ID bulunamadı
+2025-09-03 07:58:33,299 - INFO - Kayıtlı model bulunamadı
+2025-09-03 07:58:33,299 - INFO - Tüm modüller başlatıldı
+2025-09-03 07:58:33,300 - INFO - Test analizi başlatılıyor...
+2025-09-03 07:58:33,300 - INFO - Test analizi başlatılıyor...
+2025-09-03 07:58:33,300 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 07:58:33,300 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 07:58:33,301 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 07:58:33,302 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 07:58:35,102 - INFO - İşlenen: 1/85
+2025-09-03 07:58:37,940 - INFO - İşlenen: 11/85
+2025-09-03 07:58:41,195 - INFO - İşlenen: 21/85
+2025-09-03 07:58:42,978 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 07:58:42,979 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 07:58:44,139 - INFO - İşlenen: 31/85
+2025-09-03 07:58:47,196 - INFO - İşlenen: 41/85
+2025-09-03 07:58:49,647 - INFO - İşlenen: 51/85
+2025-09-03 07:58:52,468 - INFO - İşlenen: 61/85
+2025-09-03 07:58:55,412 - INFO - İşlenen: 71/85
+2025-09-03 07:58:57,936 - INFO - İşlenen: 81/85
+2025-09-03 07:58:58,662 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 07:58:58,690 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 07:58:58,693 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 07:58:58,694 - INFO - Teknik analiz yapılıyor...
+2025-09-03 07:58:58,694 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 07:58:59,801 - INFO - İşlenen: 1/85
+2025-09-03 07:59:01,591 - INFO - İşlenen: 11/85
+2025-09-03 07:59:03,513 - INFO - İşlenen: 21/85
+2025-09-03 07:59:04,411 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 07:59:04,413 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 07:59:05,556 - INFO - İşlenen: 31/85
+2025-09-03 07:59:07,772 - INFO - İşlenen: 41/85
+2025-09-03 07:59:09,843 - INFO - İşlenen: 51/85
+2025-09-03 07:59:11,841 - INFO - İşlenen: 61/85
+2025-09-03 07:59:13,639 - INFO - İşlenen: 71/85
+2025-09-03 07:59:15,578 - INFO - İşlenen: 81/85
+2025-09-03 07:59:16,032 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 07:59:16,037 - ERROR - AKBNK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,042 - ERROR - GARAN.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,049 - ERROR - ISCTR.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,054 - ERROR - YKBNK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,058 - ERROR - HALKB.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,062 - ERROR - SISE.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,067 - ERROR - THYAO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,071 - ERROR - BIMAS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,075 - ERROR - KRDMD.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,078 - ERROR - ASELS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,082 - ERROR - ARCLK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,086 - ERROR - TUPRS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,091 - ERROR - TCELL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,096 - ERROR - EREGL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,100 - ERROR - KOZAL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,105 - ERROR - PETKM.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,109 - ERROR - PGSUS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,114 - ERROR - SAHOL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,118 - ERROR - VAKBN.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,125 - ERROR - ENKAI.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,129 - ERROR - OYAKC.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,134 - ERROR - MGROS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,138 - ERROR - CCOLA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,143 - ERROR - DOHOL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,147 - ERROR - TOASO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,151 - ERROR - AKSA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,156 - ERROR - ALARK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,163 - ERROR - ALBRK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,172 - ERROR - ALGYO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,176 - ERROR - AYGAZ.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,187 - ERROR - BAGFS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,193 - ERROR - BANVT.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,198 - ERROR - BARMA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,202 - ERROR - BRISA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,207 - ERROR - BRSAN.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,214 - ERROR - CEMTS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,221 - ERROR - CLEBI.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,226 - ERROR - DEVA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,231 - ERROR - DITAS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,240 - ERROR - DOCO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,247 - ERROR - EGEEN.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,253 - ERROR - EKGYO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,258 - ERROR - EUPWR.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,261 - ERROR - GLYHO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,264 - ERROR - GUBRF.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,269 - ERROR - HEKTS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,274 - ERROR - IHLAS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,279 - ERROR - IHYAY.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,285 - ERROR - IPEKE.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,285 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 07:59:16,291 - ERROR - ISGYO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,296 - ERROR - JANTS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,301 - ERROR - KARSN.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,305 - ERROR - KCHOL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,311 - ERROR - KONYA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,317 - ERROR - KONTR.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,325 - ERROR - KOZAA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,332 - ERROR - KRDMA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,350 - ERROR - LOGO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,358 - ERROR - MAVI.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,361 - ERROR - MPARK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,364 - ERROR - NETAS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,368 - ERROR - ODAS.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,373 - ERROR - OTKAR.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,376 - ERROR - PARSN.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,380 - ERROR - PENTA.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,385 - ERROR - PKART.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,390 - ERROR - POLHO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,394 - ERROR - PRKME.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,399 - ERROR - QUAGR.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,405 - ERROR - RTALB.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,413 - ERROR - SKBNK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,423 - ERROR - SNGYO.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,428 - ERROR - SOKM.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,434 - ERROR - TAVHL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,440 - ERROR - TBORG.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,453 - ERROR - TMSN.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,460 - ERROR - TSKB.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,467 - ERROR - TTKOM.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,474 - ERROR - TTRAK.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,479 - ERROR - ULKER.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,484 - ERROR - VESTL.IS teknik analiz hatası: module 'ta.volume' has no attribute 'VolumeSMAIndicator'
+2025-09-03 07:59:16,485 - INFO - 0 hisse için teknik analiz tamamlandı
+2025-09-03 07:59:16,487 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 07:59:16,488 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 07:59:16,958 - INFO - Toplam 0 haber toplandı
+2025-09-03 07:59:17,138 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 07:59:17,138 - INFO - 0 potansiyel tavan hissesi bulundu
+2025-09-03 07:59:17,138 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 07:59:17,139 - ERROR - Telegram bot yapılandırılmamış
+2025-09-03 07:59:17,139 - ERROR - Telegram mesajı gönderilemedi
+2025-09-03 07:59:17,139 - INFO - Günlük analiz tamamlandı
+2025-09-03 07:59:17,140 - INFO - Sistem başlatıldı. Manuel test tamamlandı.
+2025-09-03 07:59:40,276 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 07:59:40,278 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 07:59:40,278 - WARNING - Telegram bot token veya chat ID bulunamadı
+2025-09-03 07:59:40,279 - INFO - Kayıtlı model bulunamadı
+2025-09-03 07:59:40,279 - INFO - Tüm modüller başlatıldı
+2025-09-03 07:59:40,280 - INFO - Test analizi başlatılıyor...
+2025-09-03 07:59:40,282 - INFO - Test analizi başlatılıyor...
+2025-09-03 07:59:40,282 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 07:59:40,282 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 07:59:40,283 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 07:59:40,284 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 07:59:41,760 - INFO - İşlenen: 1/85
+2025-09-03 07:59:43,785 - INFO - İşlenen: 11/85
+2025-09-03 07:59:45,621 - INFO - İşlenen: 21/85
+2025-09-03 07:59:46,665 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 07:59:46,666 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 07:59:47,795 - INFO - İşlenen: 31/85
+2025-09-03 07:59:49,567 - INFO - İşlenen: 41/85
+2025-09-03 07:59:51,181 - INFO - İşlenen: 51/85
+2025-09-03 07:59:53,006 - INFO - İşlenen: 61/85
+2025-09-03 07:59:54,861 - INFO - İşlenen: 71/85
+2025-09-03 07:59:56,651 - INFO - İşlenen: 81/85
+2025-09-03 07:59:57,174 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 07:59:57,201 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 07:59:57,210 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 07:59:57,210 - INFO - Teknik analiz yapılıyor...
+2025-09-03 07:59:57,213 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 07:59:58,350 - INFO - İşlenen: 1/85
+2025-09-03 08:00:00,608 - INFO - İşlenen: 11/85
+2025-09-03 08:00:02,454 - INFO - İşlenen: 21/85
+2025-09-03 08:00:03,764 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:00:03,768 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:00:04,900 - INFO - İşlenen: 31/85
+2025-09-03 08:00:06,937 - INFO - İşlenen: 41/85
+2025-09-03 08:00:19,313 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 08:00:19,313 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 08:00:19,314 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 08:00:19,314 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 08:00:19,314 - WARNING - Telegram bot token veya chat ID bulunamadı
+2025-09-03 08:00:19,314 - INFO - Kayıtlı model bulunamadı
+2025-09-03 08:00:19,314 - INFO - Tüm modüller başlatıldı
+2025-09-03 08:00:19,314 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 08:00:19,314 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:00:19,315 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 08:00:19,315 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:00:20,581 - INFO - İşlenen: 1/85
+2025-09-03 08:00:22,567 - INFO - İşlenen: 11/85
+2025-09-03 08:00:24,555 - INFO - İşlenen: 21/85
+2025-09-03 08:00:25,619 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 08:00:25,620 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:00:26,708 - INFO - İşlenen: 31/85
+2025-09-03 08:00:28,658 - INFO - İşlenen: 41/85
+2025-09-03 08:00:30,272 - INFO - İşlenen: 51/85
+2025-09-03 08:00:32,455 - INFO - İşlenen: 61/85
+2025-09-03 08:00:34,556 - INFO - İşlenen: 71/85
+2025-09-03 08:00:36,715 - INFO - İşlenen: 81/85
+2025-09-03 08:00:37,194 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:00:37,230 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 08:00:37,231 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 08:00:37,232 - INFO - Teknik analiz yapılıyor...
+2025-09-03 08:00:37,232 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:00:38,342 - INFO - İşlenen: 1/85
+2025-09-03 08:00:40,586 - INFO - İşlenen: 11/85
+2025-09-03 08:00:42,850 - INFO - İşlenen: 21/85
+2025-09-03 08:00:43,649 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:00:43,649 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:00:44,728 - INFO - İşlenen: 31/85
+2025-09-03 08:00:46,525 - INFO - İşlenen: 41/85
+2025-09-03 08:00:48,164 - INFO - İşlenen: 51/85
+2025-09-03 08:00:50,054 - INFO - İşlenen: 61/85
+2025-09-03 08:00:52,177 - INFO - İşlenen: 71/85
+2025-09-03 08:00:54,115 - INFO - İşlenen: 81/85
+2025-09-03 08:00:54,506 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:00:54,755 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 08:00:54,964 - INFO - 81 hisse için teknik analiz tamamlandı
+2025-09-03 08:00:54,976 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 08:00:54,979 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 08:00:56,356 - INFO - Toplam 0 haber toplandı
+2025-09-03 08:00:56,413 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 08:00:56,414 - INFO - 6 potansiyel tavan hissesi bulundu
+2025-09-03 08:00:56,414 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 08:00:56,414 - ERROR - Telegram bot yapılandırılmamış
+2025-09-03 08:00:56,415 - ERROR - Telegram mesajı gönderilemedi
+2025-09-03 08:00:56,415 - INFO - Günlük analiz tamamlandı
+2025-09-03 08:00:56,415 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 08:14:06,773 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 08:14:06,775 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 08:14:06,776 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 08:14:06,776 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 08:14:06,776 - WARNING - Telegram bot token veya chat ID bulunamadı
+2025-09-03 08:14:06,776 - INFO - Kayıtlı model bulunamadı
+2025-09-03 08:14:06,777 - INFO - Tüm modüller başlatıldı
+2025-09-03 08:14:06,777 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 08:14:06,777 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:14:06,777 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 08:14:06,777 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:14:08,182 - INFO - İşlenen: 1/85
+2025-09-03 08:14:10,062 - INFO - İşlenen: 11/85
+2025-09-03 08:14:12,134 - INFO - İşlenen: 21/85
+2025-09-03 08:14:12,847 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 08:14:12,847 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:14:13,931 - INFO - İşlenen: 31/85
+2025-09-03 08:14:15,750 - INFO - İşlenen: 41/85
+2025-09-03 08:14:17,418 - INFO - İşlenen: 51/85
+2025-09-03 08:14:19,710 - INFO - İşlenen: 61/85
+2025-09-03 08:14:21,426 - INFO - İşlenen: 71/85
+2025-09-03 08:14:23,278 - INFO - İşlenen: 81/85
+2025-09-03 08:14:23,690 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:14:23,706 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 08:14:23,707 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 08:14:23,707 - INFO - Teknik analiz yapılıyor...
+2025-09-03 08:14:23,708 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:14:24,870 - INFO - İşlenen: 1/85
+2025-09-03 08:14:26,640 - INFO - İşlenen: 11/85
+2025-09-03 08:14:28,408 - INFO - İşlenen: 21/85
+2025-09-03 08:14:29,167 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:14:29,168 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:14:30,250 - INFO - İşlenen: 31/85
+2025-09-03 08:14:32,554 - INFO - İşlenen: 41/85
+2025-09-03 08:14:34,237 - INFO - İşlenen: 51/85
+2025-09-03 08:14:36,311 - INFO - İşlenen: 61/85
+2025-09-03 08:14:38,048 - INFO - İşlenen: 71/85
+2025-09-03 08:14:39,928 - INFO - İşlenen: 81/85
+2025-09-03 08:14:40,299 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:14:40,637 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 08:14:40,847 - INFO - 81 hisse için teknik analiz tamamlandı
+2025-09-03 08:14:40,849 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 08:14:40,849 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 08:14:41,832 - INFO - Toplam 0 haber toplandı
+2025-09-03 08:14:41,886 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 08:14:41,886 - INFO - 8 potansiyel tavan hissesi bulundu
+2025-09-03 08:14:41,886 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 08:14:41,886 - ERROR - Telegram bot yapılandırılmamış
+2025-09-03 08:14:41,886 - ERROR - Telegram mesajı gönderilemedi
+2025-09-03 08:14:41,886 - INFO - Günlük analiz tamamlandı
+2025-09-03 08:14:41,887 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 08:21:11,456 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 08:21:11,456 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 08:21:11,457 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 08:21:11,457 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 08:21:11,457 - WARNING - Telegram bot token veya chat ID bulunamadı
+2025-09-03 08:21:11,457 - INFO - Kayıtlı model bulunamadı
+2025-09-03 08:21:11,457 - INFO - Tüm modüller başlatıldı
+2025-09-03 08:21:11,457 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 08:21:11,458 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:21:11,458 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 08:21:11,458 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:21:12,716 - INFO - İşlenen: 1/85
+2025-09-03 08:21:14,662 - INFO - İşlenen: 11/85
+2025-09-03 08:21:16,474 - INFO - İşlenen: 21/85
+2025-09-03 08:21:17,282 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 08:21:17,283 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:21:18,368 - INFO - İşlenen: 31/85
+2025-09-03 08:21:20,759 - INFO - İşlenen: 41/85
+2025-09-03 08:21:22,534 - INFO - İşlenen: 51/85
+2025-09-03 08:21:24,538 - INFO - İşlenen: 61/85
+2025-09-03 08:21:26,707 - INFO - İşlenen: 71/85
+2025-09-03 08:21:28,952 - INFO - İşlenen: 81/85
+2025-09-03 08:21:29,378 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:21:29,395 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 08:21:29,396 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 08:21:29,396 - INFO - Teknik analiz yapılıyor...
+2025-09-03 08:21:29,397 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:21:30,530 - INFO - İşlenen: 1/85
+2025-09-03 08:21:32,846 - INFO - İşlenen: 11/85
+2025-09-03 08:21:35,110 - INFO - İşlenen: 21/85
+2025-09-03 08:21:36,449 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:21:36,453 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:21:37,588 - INFO - İşlenen: 31/85
+2025-09-03 08:21:40,099 - INFO - İşlenen: 41/85
+2025-09-03 08:21:42,186 - INFO - İşlenen: 51/85
+2025-09-03 08:21:44,534 - INFO - İşlenen: 61/85
+2025-09-03 08:21:46,698 - INFO - İşlenen: 71/85
+2025-09-03 08:21:49,031 - INFO - İşlenen: 81/85
+2025-09-03 08:21:49,464 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:21:49,753 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 08:21:49,983 - INFO - 81 hisse için teknik analiz tamamlandı
+2025-09-03 08:21:49,989 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 08:21:49,992 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 08:21:50,834 - INFO - Toplam 0 haber toplandı
+2025-09-03 08:21:50,887 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 08:21:50,888 - INFO - 9 potansiyel tavan hissesi bulundu
+2025-09-03 08:21:50,888 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 08:21:50,889 - ERROR - Telegram bot yapılandırılmamış
+2025-09-03 08:21:50,889 - ERROR - Telegram mesajı gönderilemedi
+2025-09-03 08:21:50,889 - INFO - Günlük analiz tamamlandı
+2025-09-03 08:21:50,889 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 08:26:42,609 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 08:26:42,609 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 08:26:42,609 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 08:26:42,610 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 08:26:42,845 - INFO - Telegram bot başlatıldı
+2025-09-03 08:26:42,846 - INFO - Kayıtlı model bulunamadı
+2025-09-03 08:26:42,846 - INFO - Tüm modüller başlatıldı
+2025-09-03 08:26:42,846 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 08:26:42,846 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:26:42,846 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 08:26:42,846 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:26:44,073 - INFO - İşlenen: 1/85
+2025-09-03 08:26:45,927 - INFO - İşlenen: 11/85
+2025-09-03 08:26:48,128 - INFO - İşlenen: 21/85
+2025-09-03 08:26:49,218 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 08:26:49,218 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:26:50,337 - INFO - İşlenen: 31/85
+2025-09-03 08:26:52,402 - INFO - İşlenen: 41/85
+2025-09-03 08:26:54,135 - INFO - İşlenen: 51/85
+2025-09-03 08:26:56,066 - INFO - İşlenen: 61/85
+2025-09-03 08:26:58,145 - INFO - İşlenen: 71/85
+2025-09-03 08:26:59,803 - INFO - İşlenen: 81/85
+2025-09-03 08:27:00,204 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:27:00,227 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 08:27:00,230 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 08:27:00,230 - INFO - Teknik analiz yapılıyor...
+2025-09-03 08:27:00,230 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:27:01,356 - INFO - İşlenen: 1/85
+2025-09-03 08:27:03,274 - INFO - İşlenen: 11/85
+2025-09-03 08:27:05,433 - INFO - İşlenen: 21/85
+2025-09-03 08:27:06,314 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:27:06,314 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:27:07,412 - INFO - İşlenen: 31/85
+2025-09-03 08:27:09,448 - INFO - İşlenen: 41/85
+2025-09-03 08:27:11,266 - INFO - İşlenen: 51/85
+2025-09-03 08:27:13,139 - INFO - İşlenen: 61/85
+2025-09-03 08:27:14,953 - INFO - İşlenen: 71/85
+2025-09-03 08:27:16,866 - INFO - İşlenen: 81/85
+2025-09-03 08:27:17,191 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:27:17,518 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 08:27:17,774 - INFO - 81 hisse için teknik analiz tamamlandı
+2025-09-03 08:27:17,778 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 08:27:17,778 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 08:27:18,481 - INFO - Toplam 0 haber toplandı
+2025-09-03 08:27:18,530 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 08:27:18,530 - INFO - 9 potansiyel tavan hissesi bulundu
+2025-09-03 08:27:18,531 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 08:27:18,963 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-03 08:27:18,973 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-03 08:27:18,976 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-03 08:27:18,978 - INFO - Günlük analiz tamamlandı
+2025-09-03 08:27:18,990 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 08:31:02,708 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 08:31:02,709 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 08:31:02,709 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 08:31:02,709 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 08:31:02,801 - INFO - Telegram bot başlatıldı
+2025-09-03 08:31:02,802 - INFO - Kayıtlı model bulunamadı
+2025-09-03 08:31:02,802 - INFO - Tüm modüller başlatıldı
+2025-09-03 08:31:02,802 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 08:31:02,802 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:31:02,802 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 08:31:02,802 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:31:04,138 - INFO - İşlenen: 1/85
+2025-09-03 08:31:06,377 - INFO - İşlenen: 11/85
+2025-09-03 08:31:08,425 - INFO - İşlenen: 21/85
+2025-09-03 08:31:09,423 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 08:31:09,424 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:31:10,544 - INFO - İşlenen: 31/85
+2025-09-03 08:31:12,515 - INFO - İşlenen: 41/85
+2025-09-03 08:31:14,107 - INFO - İşlenen: 51/85
+2025-09-03 08:31:16,543 - INFO - İşlenen: 61/85
+2025-09-03 08:31:18,598 - INFO - İşlenen: 71/85
+2025-09-03 08:31:20,241 - INFO - İşlenen: 81/85
+2025-09-03 08:31:20,713 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:31:20,735 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 08:31:20,738 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 08:31:20,739 - INFO - Teknik analiz yapılıyor...
+2025-09-03 08:31:20,739 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:31:21,922 - INFO - İşlenen: 1/85
+2025-09-03 08:31:23,907 - INFO - İşlenen: 11/85
+2025-09-03 08:31:25,817 - INFO - İşlenen: 21/85
+2025-09-03 08:31:26,645 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:31:26,646 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:31:27,726 - INFO - İşlenen: 31/85
+2025-09-03 08:31:29,600 - INFO - İşlenen: 41/85
+2025-09-03 08:31:31,321 - INFO - İşlenen: 51/85
+2025-09-03 08:31:33,006 - INFO - İşlenen: 61/85
+2025-09-03 08:31:34,672 - INFO - İşlenen: 71/85
+2025-09-03 08:31:36,315 - INFO - İşlenen: 81/85
+2025-09-03 08:31:36,570 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:31:36,919 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 08:31:37,119 - INFO - 81 hisse için teknik analiz tamamlandı
+2025-09-03 08:31:37,122 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 08:31:37,122 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 08:31:37,852 - INFO - Toplam 0 haber toplandı
+2025-09-03 08:31:37,906 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 08:31:37,908 - INFO - 0 potansiyel tavan hissesi bulundu
+2025-09-03 08:31:37,913 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 08:31:38,526 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-03 08:31:38,528 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-03 08:31:38,528 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-03 08:31:38,528 - INFO - Günlük analiz tamamlandı
+2025-09-03 08:31:38,540 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 08:33:08,628 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 08:33:08,628 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 08:33:08,635 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 08:33:08,635 - INFO - Toplam 85 BİST sembolü yüklendi
+2025-09-03 08:33:08,699 - INFO - Telegram bot başlatıldı
+2025-09-03 08:33:08,699 - INFO - Kayıtlı model bulunamadı
+2025-09-03 08:33:08,699 - INFO - Tüm modüller başlatıldı
+2025-09-03 08:33:08,700 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 08:33:08,700 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:33:08,700 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-03 08:33:08,700 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:33:09,959 - INFO - İşlenen: 1/85
+2025-09-03 08:33:11,785 - INFO - İşlenen: 11/85
+2025-09-03 08:33:13,644 - INFO - İşlenen: 21/85
+2025-09-03 08:33:14,509 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-03 08:33:14,511 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:33:15,592 - INFO - İşlenen: 31/85
+2025-09-03 08:33:17,403 - INFO - İşlenen: 41/85
+2025-09-03 08:33:19,110 - INFO - İşlenen: 51/85
+2025-09-03 08:33:20,977 - INFO - İşlenen: 61/85
+2025-09-03 08:33:22,785 - INFO - İşlenen: 71/85
+2025-09-03 08:33:24,872 - INFO - İşlenen: 81/85
+2025-09-03 08:33:25,314 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:33:25,330 - INFO - Bugün toplam 0 tavan yapan hisse bulundu
+2025-09-03 08:33:25,331 - INFO - 0 bugün tavan yapan hisse bulundu
+2025-09-03 08:33:25,331 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:33:25,331 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 08:33:25,331 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:33:26,455 - INFO - İşlenen: 1/85
+2025-09-03 08:33:28,510 - INFO - İşlenen: 11/85
+2025-09-03 08:33:30,639 - INFO - İşlenen: 21/85
+2025-09-03 08:33:31,731 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 08:33:31,732 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:33:32,848 - INFO - İşlenen: 31/85
+2025-09-03 08:33:34,976 - INFO - İşlenen: 41/85
+2025-09-03 08:33:36,800 - INFO - İşlenen: 51/85
+2025-09-03 08:33:38,500 - INFO - İşlenen: 61/85
+2025-09-03 08:33:40,866 - INFO - İşlenen: 71/85
+2025-09-03 08:33:42,687 - INFO - İşlenen: 81/85
+2025-09-03 08:33:43,121 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:33:43,134 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-03 08:33:43,135 - INFO - 1 tavan yapan hisse bulundu
+2025-09-03 08:33:43,135 - INFO - Teknik analiz yapılıyor...
+2025-09-03 08:33:43,135 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:33:44,234 - INFO - İşlenen: 1/85
+2025-09-03 08:33:46,390 - INFO - İşlenen: 11/85
+2025-09-03 08:33:48,224 - INFO - İşlenen: 21/85
+2025-09-03 08:33:49,111 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:33:49,111 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:33:50,203 - INFO - İşlenen: 31/85
+2025-09-03 08:33:51,992 - INFO - İşlenen: 41/85
+2025-09-03 08:33:53,809 - INFO - İşlenen: 51/85
+2025-09-03 08:33:55,619 - INFO - İşlenen: 61/85
+2025-09-03 08:33:57,260 - INFO - İşlenen: 71/85
+2025-09-03 08:33:59,058 - INFO - İşlenen: 81/85
+2025-09-03 08:33:59,558 - INFO - Toplam 82 hisse için veri çekildi
+2025-09-03 08:33:59,875 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 08:34:00,086 - INFO - 81 hisse için teknik analiz tamamlandı
+2025-09-03 08:34:00,088 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 08:34:00,088 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 08:34:00,495 - INFO - Toplam 0 haber toplandı
+2025-09-03 08:34:00,629 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 08:34:00,630 - INFO - 0 potansiyel tavan hissesi bulundu
+2025-09-03 08:34:00,630 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 08:34:01,052 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-03 08:34:01,053 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-03 08:34:01,054 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-03 08:34:01,054 - INFO - Günlük analiz tamamlandı
+2025-09-03 08:34:01,056 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 08:38:24,471 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 08:38:24,472 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 08:38:24,472 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 08:38:24,472 - INFO - Toplam 101 BİST sembolü yüklendi
+2025-09-03 08:38:24,534 - INFO - Telegram bot başlatıldı
+2025-09-03 08:38:24,534 - INFO - Kayıtlı model bulunamadı
+2025-09-03 08:38:24,534 - INFO - Tüm modüller başlatıldı
+2025-09-03 08:38:24,534 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 08:38:24,534 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:38:24,535 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-03 08:38:24,535 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:38:25,841 - INFO - İşlenen: 1/101
+2025-09-03 08:38:27,976 - INFO - İşlenen: 11/101
+2025-09-03 08:38:30,266 - INFO - İşlenen: 21/101
+2025-09-03 08:38:30,790 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-03 08:38:30,791 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:38:32,151 - INFO - İşlenen: 31/101
+2025-09-03 08:38:33,988 - INFO - İşlenen: 41/101
+2025-09-03 08:38:35,966 - INFO - İşlenen: 51/101
+2025-09-03 08:38:38,112 - INFO - İşlenen: 61/101
+2025-09-03 08:38:40,111 - INFO - İşlenen: 71/101
+2025-09-03 08:38:42,137 - INFO - İşlenen: 81/101
+2025-09-03 08:38:43,455 - ERROR - HTTP Error 404: 
+2025-09-03 08:38:43,776 - ERROR - $HEPSI.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 08:38:43,776 - WARNING - HEPSI.IS için veri bulunamadı
+2025-09-03 08:38:44,908 - INFO - İşlenen: 91/101
+2025-09-03 08:38:46,393 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 08:38:46,394 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 08:38:47,785 - INFO - İşlenen: 101/101
+2025-09-03 08:38:47,785 - INFO - Toplam 92 hisse için veri çekildi
+2025-09-03 08:38:47,800 - INFO - Bugün toplam 1 tavan yapan hisse bulundu
+2025-09-03 08:38:47,801 - INFO - 1 bugün tavan yapan hisse bulundu
+2025-09-03 08:38:47,807 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 08:38:47,807 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 08:38:47,807 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:38:48,984 - INFO - İşlenen: 1/101
+2025-09-03 08:38:50,888 - INFO - İşlenen: 11/101
+2025-09-03 08:38:53,004 - INFO - İşlenen: 21/101
+2025-09-03 08:38:53,537 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 08:38:53,537 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:38:55,032 - INFO - İşlenen: 31/101
+2025-09-03 08:38:57,145 - INFO - İşlenen: 41/101
+2025-09-03 08:38:59,416 - INFO - İşlenen: 51/101
+2025-09-03 08:39:01,226 - INFO - İşlenen: 61/101
+2025-09-03 08:39:03,151 - INFO - İşlenen: 71/101
+2025-09-03 08:39:05,279 - INFO - İşlenen: 81/101
+2025-09-03 08:39:06,291 - ERROR - $HEPSI.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 08:39:06,292 - WARNING - HEPSI.IS için veri bulunamadı
+2025-09-03 08:39:07,398 - INFO - İşlenen: 91/101
+2025-09-03 08:39:08,074 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 08:39:08,075 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 08:39:09,328 - INFO - İşlenen: 101/101
+2025-09-03 08:39:09,329 - INFO - Toplam 92 hisse için veri çekildi
+2025-09-03 08:39:09,342 - INFO - Toplam 2 tavan yapan hisse bulundu
+2025-09-03 08:39:09,343 - INFO - 2 tavan yapan hisse bulundu
+2025-09-03 08:39:09,343 - INFO - Teknik analiz yapılıyor...
+2025-09-03 08:39:09,343 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 08:39:10,429 - INFO - İşlenen: 1/101
+2025-09-03 08:39:12,508 - INFO - İşlenen: 11/101
+2025-09-03 08:39:14,331 - INFO - İşlenen: 21/101
+2025-09-03 08:39:14,713 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 08:39:14,714 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 08:39:16,140 - INFO - İşlenen: 31/101
+2025-09-03 08:39:17,890 - INFO - İşlenen: 41/101
+2025-09-03 08:39:19,811 - INFO - İşlenen: 51/101
+2025-09-03 08:39:22,093 - INFO - İşlenen: 61/101
+2025-09-03 08:39:24,167 - INFO - İşlenen: 71/101
+2025-09-03 08:39:25,804 - INFO - İşlenen: 81/101
+2025-09-03 08:39:26,681 - ERROR - $HEPSI.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 08:39:26,682 - WARNING - HEPSI.IS için veri bulunamadı
+2025-09-03 08:39:27,757 - INFO - İşlenen: 91/101
+2025-09-03 08:39:28,449 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 08:39:28,449 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 08:39:29,633 - INFO - İşlenen: 101/101
+2025-09-03 08:39:29,634 - INFO - Toplam 92 hisse için veri çekildi
+2025-09-03 08:39:30,095 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 08:39:30,245 - INFO - 91 hisse için teknik analiz tamamlandı
+2025-09-03 08:39:30,247 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 08:39:30,248 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 08:39:30,698 - INFO - Toplam 0 haber toplandı
+2025-09-03 08:39:30,752 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 08:39:30,752 - INFO - 0 potansiyel tavan hissesi bulundu
+2025-09-03 08:39:30,752 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 08:39:31,154 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-03 08:39:31,162 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-03 08:39:31,162 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-03 08:39:31,162 - INFO - Günlük analiz tamamlandı
+2025-09-03 08:39:31,166 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 12:22:23,555 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 12:22:23,558 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 12:22:23,558 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 12:22:23,559 - INFO - Toplam 101 BİST sembolü yüklendi
+2025-09-03 12:22:23,762 - INFO - Telegram bot başlatıldı
+2025-09-03 12:22:23,768 - INFO - Kayıtlı model bulunamadı
+2025-09-03 12:22:23,768 - INFO - Tüm modüller başlatıldı
+2025-09-03 12:22:23,770 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 12:22:23,770 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-03 12:22:23,770 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-03 12:22:23,770 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 12:22:25,130 - INFO - İşlenen: 1/101
+2025-09-03 12:22:27,646 - INFO - İşlenen: 11/101
+2025-09-03 12:22:29,999 - INFO - İşlenen: 21/101
+2025-09-03 12:22:30,565 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-03 12:22:30,566 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 12:22:32,138 - INFO - İşlenen: 31/101
+2025-09-03 12:22:34,208 - INFO - İşlenen: 41/101
+2025-09-03 12:22:36,136 - INFO - İşlenen: 51/101
+2025-09-03 12:22:38,011 - INFO - İşlenen: 61/101
+2025-09-03 12:22:39,952 - INFO - İşlenen: 71/101
+2025-09-03 12:22:42,048 - INFO - İşlenen: 81/101
+2025-09-03 12:22:43,214 - ERROR - HTTP Error 404: 
+2025-09-03 12:22:43,500 - ERROR - $HEPSI.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:22:43,501 - WARNING - HEPSI.IS için veri bulunamadı
+2025-09-03 12:22:44,598 - INFO - İşlenen: 91/101
+2025-09-03 12:22:45,795 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:22:45,796 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 12:22:47,090 - INFO - İşlenen: 101/101
+2025-09-03 12:22:47,090 - INFO - Toplam 92 hisse için veri çekildi
+2025-09-03 12:22:47,110 - INFO - Bugün toplam 1 tavan yapan hisse bulundu
+2025-09-03 12:22:47,111 - INFO - 1 bugün tavan yapan hisse bulundu
+2025-09-03 12:22:47,111 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 12:22:47,112 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 12:22:47,112 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 12:22:48,236 - INFO - İşlenen: 1/101
+2025-09-03 12:22:50,280 - INFO - İşlenen: 11/101
+2025-09-03 12:22:52,427 - INFO - İşlenen: 21/101
+2025-09-03 12:22:53,048 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 12:22:53,048 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 12:22:54,529 - INFO - İşlenen: 31/101
+2025-09-03 12:22:56,544 - INFO - İşlenen: 41/101
+2025-09-03 12:22:58,849 - INFO - İşlenen: 51/101
+2025-09-03 12:23:01,000 - INFO - İşlenen: 61/101
+2025-09-03 12:23:03,000 - INFO - İşlenen: 71/101
+2025-09-03 12:23:05,124 - INFO - İşlenen: 81/101
+2025-09-03 12:23:06,199 - ERROR - $HEPSI.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:23:06,199 - WARNING - HEPSI.IS için veri bulunamadı
+2025-09-03 12:23:07,287 - INFO - İşlenen: 91/101
+2025-09-03 12:23:08,378 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:23:08,378 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 12:23:09,836 - INFO - İşlenen: 101/101
+2025-09-03 12:23:09,836 - INFO - Toplam 92 hisse için veri çekildi
+2025-09-03 12:23:09,849 - INFO - Toplam 2 tavan yapan hisse bulundu
+2025-09-03 12:23:09,850 - INFO - 2 tavan yapan hisse bulundu
+2025-09-03 12:23:09,850 - INFO - Teknik analiz yapılıyor...
+2025-09-03 12:23:09,850 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 12:23:10,978 - INFO - İşlenen: 1/101
+2025-09-03 12:23:13,189 - INFO - İşlenen: 11/101
+2025-09-03 12:23:15,014 - INFO - İşlenen: 21/101
+2025-09-03 12:23:15,676 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 12:23:15,677 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 12:23:17,163 - INFO - İşlenen: 31/101
+2025-09-03 12:23:19,311 - INFO - İşlenen: 41/101
+2025-09-03 12:23:21,716 - INFO - İşlenen: 51/101
+2025-09-03 12:23:23,744 - INFO - İşlenen: 61/101
+2025-09-03 12:23:25,587 - INFO - İşlenen: 71/101
+2025-09-03 12:23:27,439 - INFO - İşlenen: 81/101
+2025-09-03 12:23:28,144 - ERROR - $HEPSI.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:23:28,144 - WARNING - HEPSI.IS için veri bulunamadı
+2025-09-03 12:23:29,290 - INFO - İşlenen: 91/101
+2025-09-03 12:23:29,932 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:23:29,932 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 12:23:31,171 - INFO - İşlenen: 101/101
+2025-09-03 12:23:31,171 - INFO - Toplam 92 hisse için veri çekildi
+2025-09-03 12:23:31,540 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 12:23:31,670 - INFO - 91 hisse için teknik analiz tamamlandı
+2025-09-03 12:23:31,672 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 12:23:31,672 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 12:23:32,129 - INFO - Toplam 0 haber toplandı
+2025-09-03 12:23:32,241 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 12:23:32,242 - INFO - 0 potansiyel tavan hissesi bulundu
+2025-09-03 12:23:32,242 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 12:23:32,633 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-03 12:23:32,634 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-03 12:23:32,634 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-03 12:23:32,634 - INFO - Günlük analiz tamamlandı
+2025-09-03 12:23:32,636 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-03 12:36:38,442 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-03 12:36:38,443 - INFO - Test analizi çalıştırılıyor...
+2025-09-03 12:36:38,443 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-03 12:36:38,443 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-03 12:36:38,519 - INFO - Telegram bot başlatıldı
+2025-09-03 12:36:38,519 - INFO - Kayıtlı model bulunamadı
+2025-09-03 12:36:38,519 - INFO - Tüm modüller başlatıldı
+2025-09-03 12:36:38,519 - INFO - Günlük analiz başlatılıyor...
+2025-09-03 12:36:38,519 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-03 12:36:38,519 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-03 12:36:38,519 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 12:36:39,796 - INFO - İşlenen: 1/118
+2025-09-03 12:36:42,005 - INFO - İşlenen: 11/118
+2025-09-03 12:36:43,937 - INFO - İşlenen: 21/118
+2025-09-03 12:36:44,588 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-03 12:36:44,589 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 12:36:46,164 - INFO - İşlenen: 31/118
+2025-09-03 12:36:48,265 - INFO - İşlenen: 41/118
+2025-09-03 12:36:50,686 - INFO - İşlenen: 51/118
+2025-09-03 12:36:52,798 - INFO - İşlenen: 61/118
+2025-09-03 12:36:54,387 - ERROR - HTTP Error 404: 
+2025-09-03 12:36:54,662 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:36:54,662 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-03 12:36:55,933 - INFO - İşlenen: 71/118
+2025-09-03 12:36:58,332 - INFO - İşlenen: 81/118
+2025-09-03 12:37:00,272 - INFO - İşlenen: 91/118
+2025-09-03 12:37:02,549 - INFO - İşlenen: 101/118
+2025-09-03 12:37:03,719 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:37:03,719 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 12:37:05,332 - INFO - İşlenen: 111/118
+2025-09-03 12:37:06,437 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-03 12:37:06,468 - INFO - Bugün toplam 8 tavan yapan hisse bulundu
+2025-09-03 12:37:06,469 - INFO - 8 bugün tavan yapan hisse bulundu
+2025-09-03 12:37:06,469 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-03 12:37:06,469 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-03 12:37:06,469 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 12:37:07,619 - INFO - İşlenen: 1/118
+2025-09-03 12:37:09,840 - INFO - İşlenen: 11/118
+2025-09-03 12:37:11,828 - INFO - İşlenen: 21/118
+2025-09-03 12:37:12,319 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-03 12:37:12,319 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 12:37:13,733 - INFO - İşlenen: 31/118
+2025-09-03 12:37:15,625 - INFO - İşlenen: 41/118
+2025-09-03 12:37:18,000 - INFO - İşlenen: 51/118
+2025-09-03 12:37:20,007 - INFO - İşlenen: 61/118
+2025-09-03 12:37:21,009 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:37:21,010 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-03 12:37:22,108 - INFO - İşlenen: 71/118
+2025-09-03 12:37:24,000 - INFO - İşlenen: 81/118
+2025-09-03 12:37:26,106 - INFO - İşlenen: 91/118
+2025-09-03 12:37:28,234 - INFO - İşlenen: 101/118
+2025-09-03 12:37:29,287 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:37:29,287 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 12:37:30,601 - INFO - İşlenen: 111/118
+2025-09-03 12:37:31,198 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-03 12:37:31,232 - INFO - Toplam 10 tavan yapan hisse bulundu
+2025-09-03 12:37:31,234 - INFO - 10 tavan yapan hisse bulundu
+2025-09-03 12:37:31,234 - INFO - Teknik analiz yapılıyor...
+2025-09-03 12:37:31,234 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-03 12:37:32,331 - INFO - İşlenen: 1/118
+2025-09-03 12:37:34,448 - INFO - İşlenen: 11/118
+2025-09-03 12:37:36,673 - INFO - İşlenen: 21/118
+2025-09-03 12:37:37,185 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-03 12:37:37,185 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-03 12:37:38,875 - INFO - İşlenen: 31/118
+2025-09-03 12:37:40,855 - INFO - İşlenen: 41/118
+2025-09-03 12:37:43,074 - INFO - İşlenen: 51/118
+2025-09-03 12:37:45,254 - INFO - İşlenen: 61/118
+2025-09-03 12:37:46,401 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:37:46,402 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-03 12:37:47,548 - INFO - İşlenen: 71/118
+2025-09-03 12:37:49,268 - INFO - İşlenen: 81/118
+2025-09-03 12:37:51,110 - INFO - İşlenen: 91/118
+2025-09-03 12:37:52,982 - INFO - İşlenen: 101/118
+2025-09-03 12:37:53,971 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-03 12:37:53,972 - WARNING - SODA.IS için veri bulunamadı
+2025-09-03 12:37:55,183 - INFO - İşlenen: 111/118
+2025-09-03 12:37:55,629 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-03 12:37:56,050 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-03 12:37:56,206 - WARNING - TRHOL.IS için yeterli veri yok
+2025-09-03 12:37:56,229 - INFO - 112 hisse için teknik analiz tamamlandı
+2025-09-03 12:37:56,233 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-03 12:37:56,234 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-03 12:37:57,182 - INFO - Toplam 0 haber toplandı
+2025-09-03 12:37:57,240 - INFO - Tavan tahminleri yapılıyor...
+2025-09-03 12:37:57,241 - INFO - 2 potansiyel tavan hissesi bulundu
+2025-09-03 12:37:57,241 - INFO - Telegram mesajı gönderiliyor...
+2025-09-03 12:37:57,631 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-03 12:37:57,633 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-03 12:37:57,633 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-03 12:37:57,633 - INFO - Günlük analiz tamamlandı
+2025-09-03 12:37:57,635 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-04 06:56:52,058 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-04 06:56:52,059 - INFO - Test analizi çalıştırılıyor...
+2025-09-04 06:56:52,060 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-04 06:56:52,060 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-04 06:56:52,219 - INFO - Telegram bot başlatıldı
+2025-09-04 06:56:52,220 - INFO - Kayıtlı model bulunamadı
+2025-09-04 06:56:52,221 - INFO - Tüm modüller başlatıldı
+2025-09-04 06:56:52,221 - INFO - Günlük analiz başlatılıyor...
+2025-09-04 06:56:52,221 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-04 06:56:52,221 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-04 06:56:52,221 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-04 06:56:53,519 - INFO - İşlenen: 1/118
+2025-09-04 06:56:55,281 - INFO - İşlenen: 11/118
+2025-09-04 06:56:57,792 - INFO - İşlenen: 21/118
+2025-09-04 06:56:58,245 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-04 06:56:58,257 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-04 06:56:59,972 - INFO - İşlenen: 31/118
+2025-09-04 06:57:02,119 - INFO - İşlenen: 41/118
+2025-09-04 06:57:04,192 - INFO - İşlenen: 51/118
+2025-09-04 06:57:06,259 - INFO - İşlenen: 61/118
+2025-09-04 06:57:07,707 - ERROR - HTTP Error 404: 
+2025-09-04 06:57:08,102 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 06:57:08,103 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-04 06:57:09,195 - INFO - İşlenen: 71/118
+2025-09-04 06:57:11,279 - INFO - İşlenen: 81/118
+2025-09-04 06:57:13,062 - INFO - İşlenen: 91/118
+2025-09-04 06:57:15,136 - INFO - İşlenen: 101/118
+2025-09-04 06:57:16,540 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 06:57:16,540 - WARNING - SODA.IS için veri bulunamadı
+2025-09-04 06:57:17,963 - INFO - İşlenen: 111/118
+2025-09-04 06:57:18,629 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-04 06:57:18,630 - INFO - Bugün toplam 0 tavan yapan hisse bulundu
+2025-09-04 06:57:18,632 - INFO - 0 bugün tavan yapan hisse bulundu
+2025-09-04 06:57:18,632 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-04 06:57:18,633 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-04 06:57:18,633 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-04 06:57:19,781 - INFO - İşlenen: 1/118
+2025-09-04 06:57:21,664 - INFO - İşlenen: 11/118
+2025-09-04 06:57:23,690 - INFO - İşlenen: 21/118
+2025-09-04 06:57:24,294 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-04 06:57:24,296 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-04 06:57:25,936 - INFO - İşlenen: 31/118
+2025-09-04 06:57:28,320 - INFO - İşlenen: 41/118
+2025-09-04 06:57:30,536 - INFO - İşlenen: 51/118
+2025-09-04 06:57:32,776 - INFO - İşlenen: 61/118
+2025-09-04 06:57:33,740 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 06:57:33,741 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-04 06:57:34,863 - INFO - İşlenen: 71/118
+2025-09-04 06:57:36,978 - INFO - İşlenen: 81/118
+2025-09-04 06:57:38,885 - INFO - İşlenen: 91/118
+2025-09-04 06:57:41,051 - INFO - İşlenen: 101/118
+2025-09-04 06:57:41,846 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 06:57:41,847 - WARNING - SODA.IS için veri bulunamadı
+2025-09-04 06:57:43,246 - INFO - İşlenen: 111/118
+2025-09-04 06:57:43,828 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-04 06:57:43,853 - INFO - Toplam 14 tavan yapan hisse bulundu
+2025-09-04 06:57:43,854 - INFO - 14 tavan yapan hisse bulundu
+2025-09-04 06:57:43,854 - INFO - Teknik analiz yapılıyor...
+2025-09-04 06:57:43,854 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-04 06:57:44,937 - INFO - İşlenen: 1/118
+2025-09-04 06:57:47,160 - INFO - İşlenen: 11/118
+2025-09-04 06:57:49,120 - INFO - İşlenen: 21/118
+2025-09-04 06:57:49,668 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-04 06:57:49,668 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-04 06:57:51,165 - INFO - İşlenen: 31/118
+2025-09-04 06:57:53,180 - INFO - İşlenen: 41/118
+2025-09-04 06:57:55,072 - INFO - İşlenen: 51/118
+2025-09-04 06:57:56,761 - INFO - İşlenen: 61/118
+2025-09-04 06:57:57,486 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 06:57:57,486 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-04 06:57:58,559 - INFO - İşlenen: 71/118
+2025-09-04 06:58:00,150 - INFO - İşlenen: 81/118
+2025-09-04 06:58:02,145 - INFO - İşlenen: 91/118
+2025-09-04 06:58:03,852 - INFO - İşlenen: 101/118
+2025-09-04 06:58:04,505 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 06:58:04,506 - WARNING - SODA.IS için veri bulunamadı
+2025-09-04 06:58:05,734 - INFO - İşlenen: 111/118
+2025-09-04 06:58:06,281 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-04 06:58:06,730 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-04 06:58:06,901 - WARNING - TRHOL.IS için yeterli veri yok
+2025-09-04 06:58:06,921 - INFO - 112 hisse için teknik analiz tamamlandı
+2025-09-04 06:58:06,923 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-04 06:58:06,923 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-04 06:58:08,126 - INFO - Toplam 0 haber toplandı
+2025-09-04 06:58:08,204 - INFO - Tavan tahminleri yapılıyor...
+2025-09-04 06:58:08,205 - INFO - 10 potansiyel tavan hissesi bulundu
+2025-09-04 06:58:08,205 - INFO - Telegram mesajı gönderiliyor...
+2025-09-04 06:58:08,596 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-04 06:58:08,597 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-04 06:58:08,597 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-04 06:58:08,598 - INFO - Günlük analiz tamamlandı
+2025-09-04 06:58:08,604 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-04 13:56:37,274 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-04 13:56:37,275 - INFO - Test analizi çalıştırılıyor...
+2025-09-04 13:56:37,275 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-04 13:56:37,275 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-04 13:56:37,453 - INFO - Telegram bot başlatıldı
+2025-09-04 13:56:37,454 - INFO - Kayıtlı model bulunamadı
+2025-09-04 13:56:37,454 - INFO - Tüm modüller başlatıldı
+2025-09-04 13:56:37,454 - INFO - Günlük analiz başlatılıyor...
+2025-09-04 13:56:37,454 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-04 13:56:37,455 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-04 13:56:37,455 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-04 13:56:41,618 - INFO - İşlenen: 1/118
+2025-09-04 13:56:43,922 - INFO - İşlenen: 11/118
+2025-09-04 13:56:46,411 - INFO - İşlenen: 21/118
+2025-09-04 13:56:47,054 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-04 13:56:47,067 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-04 13:56:48,733 - INFO - İşlenen: 31/118
+2025-09-04 13:56:50,775 - INFO - İşlenen: 41/118
+2025-09-04 13:56:52,830 - INFO - İşlenen: 51/118
+2025-09-04 13:56:54,913 - INFO - İşlenen: 61/118
+2025-09-04 13:56:56,457 - ERROR - HTTP Error 404: 
+2025-09-04 13:56:56,898 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 13:56:56,898 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-04 13:56:58,049 - INFO - İşlenen: 71/118
+2025-09-04 13:57:00,121 - INFO - İşlenen: 81/118
+2025-09-04 13:57:02,414 - INFO - İşlenen: 91/118
+2025-09-04 13:57:04,370 - INFO - İşlenen: 101/118
+2025-09-04 13:57:07,264 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 13:57:07,265 - WARNING - SODA.IS için veri bulunamadı
+2025-09-04 13:57:08,594 - INFO - İşlenen: 111/118
+2025-09-04 13:57:09,331 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-04 13:57:09,352 - INFO - Bugün toplam 7 tavan yapan hisse bulundu
+2025-09-04 13:57:09,353 - INFO - 7 bugün tavan yapan hisse bulundu
+2025-09-04 13:57:09,353 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-04 13:57:09,353 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-04 13:57:09,354 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-04 13:57:10,514 - INFO - İşlenen: 1/118
+2025-09-04 13:57:12,740 - INFO - İşlenen: 11/118
+2025-09-04 13:57:14,973 - INFO - İşlenen: 21/118
+2025-09-04 13:57:15,499 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-04 13:57:15,500 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-04 13:57:17,033 - INFO - İşlenen: 31/118
+2025-09-04 13:57:19,184 - INFO - İşlenen: 41/118
+2025-09-04 13:57:21,624 - INFO - İşlenen: 51/118
+2025-09-04 13:57:24,008 - INFO - İşlenen: 61/118
+2025-09-04 13:57:25,367 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 13:57:25,371 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-04 13:57:26,470 - INFO - İşlenen: 71/118
+2025-09-04 13:57:28,405 - INFO - İşlenen: 81/118
+2025-09-04 13:57:30,320 - INFO - İşlenen: 91/118
+2025-09-04 13:57:32,580 - INFO - İşlenen: 101/118
+2025-09-04 13:57:33,687 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 13:57:33,688 - WARNING - SODA.IS için veri bulunamadı
+2025-09-04 13:57:35,127 - INFO - İşlenen: 111/118
+2025-09-04 13:57:35,971 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-04 13:57:36,003 - INFO - Toplam 7 tavan yapan hisse bulundu
+2025-09-04 13:57:36,006 - INFO - 7 tavan yapan hisse bulundu
+2025-09-04 13:57:36,007 - INFO - Teknik analiz yapılıyor...
+2025-09-04 13:57:36,007 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-04 13:57:37,112 - INFO - İşlenen: 1/118
+2025-09-04 13:57:39,831 - INFO - İşlenen: 11/118
+2025-09-04 13:57:42,223 - INFO - İşlenen: 21/118
+2025-09-04 13:57:42,971 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-04 13:57:42,974 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-04 13:57:44,645 - INFO - İşlenen: 31/118
+2025-09-04 13:57:46,915 - INFO - İşlenen: 41/118
+2025-09-04 13:57:49,125 - INFO - İşlenen: 51/118
+2025-09-04 13:57:51,464 - INFO - İşlenen: 61/118
+2025-09-04 13:57:52,468 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 13:57:52,470 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-04 13:57:53,593 - INFO - İşlenen: 71/118
+2025-09-04 13:57:55,685 - INFO - İşlenen: 81/118
+2025-09-04 13:57:57,504 - INFO - İşlenen: 91/118
+2025-09-04 13:57:59,585 - INFO - İşlenen: 101/118
+2025-09-04 13:58:00,626 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-04 13:58:00,626 - WARNING - SODA.IS için veri bulunamadı
+2025-09-04 13:58:02,031 - INFO - İşlenen: 111/118
+2025-09-04 13:58:02,745 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-04 13:58:03,205 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-04 13:58:03,381 - WARNING - TRHOL.IS için yeterli veri yok
+2025-09-04 13:58:03,393 - INFO - 112 hisse için teknik analiz tamamlandı
+2025-09-04 13:58:03,395 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-04 13:58:03,396 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-04 13:58:03,817 - INFO - Toplam 0 haber toplandı
+2025-09-04 13:58:03,883 - INFO - Tavan tahminleri yapılıyor...
+2025-09-04 13:58:03,883 - INFO - 4 potansiyel tavan hissesi bulundu
+2025-09-04 13:58:03,884 - INFO - Telegram mesajı gönderiliyor...
+2025-09-04 13:58:04,293 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-04 13:58:04,295 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-04 13:58:04,295 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-04 13:58:04,295 - INFO - Günlük analiz tamamlandı
+2025-09-04 13:58:04,309 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-04 14:11:12,653 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-04 14:11:12,653 - INFO - Test analizi çalıştırılıyor...
+2025-09-04 14:11:12,654 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-04 14:11:12,654 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-04 14:11:12,654 - ERROR - Zamanlanmış analiz hatası: 'NoneType' object is not callable
+2025-09-04 14:11:12,655 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-05 06:08:39,001 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-05 06:08:39,002 - INFO - Test analizi çalıştırılıyor...
+2025-09-05 06:08:39,003 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-05 06:08:39,003 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-05 06:08:39,003 - ERROR - Zamanlanmış analiz hatası: 'NoneType' object is not callable
+2025-09-05 06:08:39,004 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-05 06:09:24,646 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-05 06:09:24,647 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-05 06:14:58,182 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-05 06:14:58,183 - INFO - Test analizi çalıştırılıyor...
+2025-09-05 06:14:58,183 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-05 06:14:58,183 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-05 06:14:58,183 - WARNING - Telegram bot token veya chat ID bulunamadı - Test modunda çalışıyor
+2025-09-05 06:14:58,183 - INFO - Kayıtlı model bulunamadı
+2025-09-05 06:14:58,184 - INFO - Tüm modüller başlatıldı
+2025-09-05 06:14:58,184 - INFO - Günlük analiz başlatılıyor...
+2025-09-05 06:14:58,184 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-05 06:14:58,184 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-05 06:14:58,184 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 06:14:59,482 - INFO - İşlenen: 1/118
+2025-09-05 06:15:01,635 - INFO - İşlenen: 11/118
+2025-09-05 06:15:03,843 - INFO - İşlenen: 21/118
+2025-09-05 06:15:04,355 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-05 06:15:04,356 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 06:15:05,972 - INFO - İşlenen: 31/118
+2025-09-05 06:15:08,076 - INFO - İşlenen: 41/118
+2025-09-05 06:15:10,282 - INFO - İşlenen: 51/118
+2025-09-05 06:15:12,319 - INFO - İşlenen: 61/118
+2025-09-05 06:15:13,327 - ERROR - HTTP Error 404: 
+2025-09-05 06:15:13,893 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:15:13,894 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 06:15:15,173 - INFO - İşlenen: 71/118
+2025-09-05 06:15:17,273 - INFO - İşlenen: 81/118
+2025-09-05 06:15:19,297 - INFO - İşlenen: 91/118
+2025-09-05 06:15:21,344 - INFO - İşlenen: 101/118
+2025-09-05 06:15:22,722 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:15:22,723 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 06:15:23,936 - INFO - İşlenen: 111/118
+2025-09-05 06:15:24,588 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 06:15:24,604 - INFO - Bugün toplam 10 tavan yapan hisse bulundu
+2025-09-05 06:15:24,605 - INFO - 10 bugün tavan yapan hisse bulundu
+2025-09-05 06:15:24,606 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-05 06:15:24,606 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-05 06:15:24,606 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 06:15:25,813 - INFO - İşlenen: 1/118
+2025-09-05 06:15:28,040 - INFO - İşlenen: 11/118
+2025-09-05 06:15:29,968 - INFO - İşlenen: 21/118
+2025-09-05 06:15:30,454 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-05 06:15:30,455 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 06:15:32,020 - INFO - İşlenen: 31/118
+2025-09-05 06:15:34,094 - INFO - İşlenen: 41/118
+2025-09-05 06:15:36,037 - INFO - İşlenen: 51/118
+2025-09-05 06:15:37,886 - INFO - İşlenen: 61/118
+2025-09-05 06:15:38,950 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:15:38,951 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 06:15:40,105 - INFO - İşlenen: 71/118
+2025-09-05 06:15:42,002 - INFO - İşlenen: 81/118
+2025-09-05 06:15:43,938 - INFO - İşlenen: 91/118
+2025-09-05 06:15:45,888 - INFO - İşlenen: 101/118
+2025-09-05 06:15:46,736 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:15:46,737 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 06:15:48,003 - INFO - İşlenen: 111/118
+2025-09-05 06:15:48,636 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 06:15:48,674 - INFO - Toplam 10 tavan yapan hisse bulundu
+2025-09-05 06:15:48,676 - INFO - 10 tavan yapan hisse bulundu
+2025-09-05 06:15:48,676 - INFO - Teknik analiz yapılıyor...
+2025-09-05 06:15:48,676 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 06:15:49,767 - INFO - İşlenen: 1/118
+2025-09-05 06:15:51,795 - INFO - İşlenen: 11/118
+2025-09-05 06:15:54,139 - INFO - İşlenen: 21/118
+2025-09-05 06:15:54,737 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-05 06:15:54,738 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 06:15:56,179 - INFO - İşlenen: 31/118
+2025-09-05 06:15:58,308 - INFO - İşlenen: 41/118
+2025-09-05 06:16:00,019 - INFO - İşlenen: 51/118
+2025-09-05 06:16:01,986 - INFO - İşlenen: 61/118
+2025-09-05 06:16:03,061 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:16:03,061 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 06:16:04,126 - INFO - İşlenen: 71/118
+2025-09-05 06:16:05,934 - INFO - İşlenen: 81/118
+2025-09-05 06:16:07,751 - INFO - İşlenen: 91/118
+2025-09-05 06:16:09,708 - INFO - İşlenen: 101/118
+2025-09-05 06:16:10,814 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:16:10,814 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 06:16:12,146 - INFO - İşlenen: 111/118
+2025-09-05 06:16:12,951 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 06:16:13,333 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-05 06:16:13,483 - WARNING - TRHOL.IS için yeterli veri yok
+2025-09-05 06:16:13,494 - INFO - 112 hisse için teknik analiz tamamlandı
+2025-09-05 06:16:13,497 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-05 06:16:13,497 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-05 06:16:13,904 - INFO - Toplam 0 haber toplandı
+2025-09-05 06:16:14,031 - INFO - Tavan tahminleri yapılıyor...
+2025-09-05 06:16:14,033 - INFO - 36 potansiyel tavan hissesi bulundu
+2025-09-05 06:16:14,033 - INFO - Telegram mesajı gönderiliyor...
+2025-09-05 06:16:14,033 - ERROR - Telegram bot yapılandırılmamış
+2025-09-05 06:16:14,033 - ERROR - Telegram mesajı gönderilemedi
+2025-09-05 06:16:14,033 - INFO - Günlük analiz tamamlandı
+2025-09-05 06:16:14,034 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-05 06:24:59,604 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-05 06:24:59,605 - INFO - Test analizi çalıştırılıyor...
+2025-09-05 06:24:59,606 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-05 06:24:59,606 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-05 06:24:59,628 - INFO - Telegram bot başlatıldı
+2025-09-05 06:24:59,628 - INFO - Kayıtlı model bulunamadı
+2025-09-05 06:24:59,628 - INFO - Tüm modüller başlatıldı
+2025-09-05 06:24:59,628 - INFO - Günlük analiz başlatılıyor...
+2025-09-05 06:24:59,628 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-05 06:24:59,628 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-05 06:24:59,628 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 06:25:00,935 - INFO - İşlenen: 1/118
+2025-09-05 06:25:03,249 - INFO - İşlenen: 11/118
+2025-09-05 06:25:05,170 - INFO - İşlenen: 21/118
+2025-09-05 06:25:05,596 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-05 06:25:05,597 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 06:25:07,098 - INFO - İşlenen: 31/118
+2025-09-05 06:25:08,973 - INFO - İşlenen: 41/118
+2025-09-05 06:25:10,848 - INFO - İşlenen: 51/118
+2025-09-05 06:25:12,629 - INFO - İşlenen: 61/118
+2025-09-05 06:25:13,698 - ERROR - HTTP Error 404: 
+2025-09-05 06:25:14,181 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:25:14,181 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 06:25:15,245 - INFO - İşlenen: 71/118
+2025-09-05 06:25:17,271 - INFO - İşlenen: 81/118
+2025-09-05 06:25:19,107 - INFO - İşlenen: 91/118
+2025-09-05 06:25:21,151 - INFO - İşlenen: 101/118
+2025-09-05 06:25:22,138 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:25:22,139 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 06:25:23,361 - INFO - İşlenen: 111/118
+2025-09-05 06:25:23,857 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 06:25:23,875 - INFO - Bugün toplam 10 tavan yapan hisse bulundu
+2025-09-05 06:25:23,876 - INFO - 10 bugün tavan yapan hisse bulundu
+2025-09-05 06:25:23,877 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-05 06:25:23,877 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-05 06:25:23,877 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 06:25:24,964 - INFO - İşlenen: 1/118
+2025-09-05 06:25:27,051 - INFO - İşlenen: 11/118
+2025-09-05 06:25:29,119 - INFO - İşlenen: 21/118
+2025-09-05 06:25:29,576 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-05 06:25:29,577 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 06:25:31,136 - INFO - İşlenen: 31/118
+2025-09-05 06:25:33,279 - INFO - İşlenen: 41/118
+2025-09-05 06:25:35,422 - INFO - İşlenen: 51/118
+2025-09-05 06:25:37,054 - INFO - İşlenen: 61/118
+2025-09-05 06:25:37,829 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:25:37,830 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 06:25:38,889 - INFO - İşlenen: 71/118
+2025-09-05 06:25:40,627 - INFO - İşlenen: 81/118
+2025-09-05 06:25:42,468 - INFO - İşlenen: 91/118
+2025-09-05 06:25:44,532 - INFO - İşlenen: 101/118
+2025-09-05 06:25:45,568 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:25:45,569 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 06:25:46,741 - INFO - İşlenen: 111/118
+2025-09-05 06:25:47,476 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 06:25:47,494 - INFO - Toplam 10 tavan yapan hisse bulundu
+2025-09-05 06:25:47,495 - INFO - 10 tavan yapan hisse bulundu
+2025-09-05 06:25:47,495 - INFO - Teknik analiz yapılıyor...
+2025-09-05 06:25:47,495 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 06:25:48,582 - INFO - İşlenen: 1/118
+2025-09-05 06:25:50,538 - INFO - İşlenen: 11/118
+2025-09-05 06:25:52,603 - INFO - İşlenen: 21/118
+2025-09-05 06:25:52,960 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-05 06:25:52,961 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 06:25:54,321 - INFO - İşlenen: 31/118
+2025-09-05 06:25:56,010 - INFO - İşlenen: 41/118
+2025-09-05 06:25:57,683 - INFO - İşlenen: 51/118
+2025-09-05 06:25:59,344 - INFO - İşlenen: 61/118
+2025-09-05 06:26:00,162 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:26:00,162 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 06:26:01,277 - INFO - İşlenen: 71/118
+2025-09-05 06:26:02,971 - INFO - İşlenen: 81/118
+2025-09-05 06:26:04,559 - INFO - İşlenen: 91/118
+2025-09-05 06:26:06,215 - INFO - İşlenen: 101/118
+2025-09-05 06:26:06,789 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 06:26:06,789 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 06:26:07,976 - INFO - İşlenen: 111/118
+2025-09-05 06:26:08,388 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 06:26:08,746 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-05 06:26:08,921 - WARNING - TRHOL.IS için yeterli veri yok
+2025-09-05 06:26:08,933 - INFO - 112 hisse için teknik analiz tamamlandı
+2025-09-05 06:26:08,935 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-05 06:26:08,935 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-05 06:26:09,979 - INFO - Toplam 0 haber toplandı
+2025-09-05 06:26:10,029 - INFO - Tavan tahminleri yapılıyor...
+2025-09-05 06:26:10,029 - INFO - 36 potansiyel tavan hissesi bulundu
+2025-09-05 06:26:10,030 - INFO - Telegram mesajı gönderiliyor...
+2025-09-05 06:26:10,416 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-05 06:26:10,418 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-05 06:26:10,418 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-05 06:26:10,418 - INFO - Günlük analiz tamamlandı
+2025-09-05 06:26:10,421 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
+2025-09-05 14:21:25,861 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-05 14:21:25,862 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-05 14:21:25,914 - INFO - Telegram bot başlatıldı
+2025-09-05 14:21:25,915 - INFO - Kayıtlı model bulunamadı
+2025-09-05 14:21:25,916 - INFO - Tüm modüller başlatıldı
+2025-09-05 14:21:25,916 - INFO - Test analizi başlatılıyor...
+2025-09-05 14:21:25,917 - INFO - Test analizi başlatılıyor...
+2025-09-05 14:21:26,327 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-05 14:21:26,329 - INFO - Test mesajı gönderildi
+2025-09-05 14:21:26,329 - INFO - Günlük analiz başlatılıyor...
+2025-09-05 14:21:26,329 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-05 14:21:26,330 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-05 14:21:26,330 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 14:21:27,765 - INFO - İşlenen: 1/118
+2025-09-05 14:21:32,382 - INFO - İşlenen: 11/118
+2025-09-05 14:21:34,884 - INFO - İşlenen: 21/118
+2025-09-05 14:21:35,527 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-05 14:21:35,528 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 14:21:37,009 - INFO - İşlenen: 31/118
+2025-09-05 14:21:39,285 - INFO - İşlenen: 41/118
+2025-09-05 14:21:41,701 - INFO - İşlenen: 51/118
+2025-09-05 14:21:43,808 - INFO - İşlenen: 61/118
+2025-09-05 14:21:45,484 - ERROR - HTTP Error 404: 
+2025-09-05 14:21:45,940 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 14:21:45,941 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 14:21:47,129 - INFO - İşlenen: 71/118
+2025-09-05 14:21:49,512 - INFO - İşlenen: 81/118
+2025-09-05 14:21:51,764 - INFO - İşlenen: 91/118
+2025-09-05 14:21:53,869 - INFO - İşlenen: 101/118
+2025-09-05 14:21:55,530 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 14:21:55,531 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 14:21:56,875 - INFO - İşlenen: 111/118
+2025-09-05 14:21:58,079 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 14:21:58,101 - INFO - Bugün toplam 1 tavan yapan hisse bulundu
+2025-09-05 14:21:58,104 - INFO - 1 bugün tavan yapan hisse bulundu
+2025-09-05 14:21:58,105 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-05 14:21:58,105 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-05 14:21:58,105 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 14:21:59,285 - INFO - İşlenen: 1/118
+2025-09-05 14:22:01,787 - INFO - İşlenen: 11/118
+2025-09-05 14:22:04,087 - INFO - İşlenen: 21/118
+2025-09-05 14:22:04,846 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-05 14:22:04,847 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 14:22:06,553 - INFO - İşlenen: 31/118
+2025-09-05 14:22:10,025 - INFO - İşlenen: 41/118
+2025-09-05 14:22:12,414 - INFO - İşlenen: 51/118
+2025-09-05 14:22:14,630 - INFO - İşlenen: 61/118
+2025-09-05 14:22:15,909 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 14:22:15,910 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 14:22:17,030 - INFO - İşlenen: 71/118
+2025-09-05 14:22:18,992 - INFO - İşlenen: 81/118
+2025-09-05 14:22:21,245 - INFO - İşlenen: 91/118
+2025-09-05 14:22:23,606 - INFO - İşlenen: 101/118
+2025-09-05 14:22:24,938 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 14:22:24,938 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 14:22:26,224 - INFO - İşlenen: 111/118
+2025-09-05 14:22:28,040 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 14:22:28,064 - INFO - Toplam 1 tavan yapan hisse bulundu
+2025-09-05 14:22:28,067 - INFO - 1 tavan yapan hisse bulundu
+2025-09-05 14:22:28,067 - INFO - Teknik analiz yapılıyor...
+2025-09-05 14:22:28,067 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-05 14:22:29,197 - INFO - İşlenen: 1/118
+2025-09-05 14:22:31,728 - INFO - İşlenen: 11/118
+2025-09-05 14:22:34,566 - INFO - İşlenen: 21/118
+2025-09-05 14:22:35,455 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-05 14:22:35,455 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-05 14:22:37,221 - INFO - İşlenen: 31/118
+2025-09-05 14:22:39,389 - INFO - İşlenen: 41/118
+2025-09-05 14:22:43,335 - INFO - İşlenen: 51/118
+2025-09-05 14:22:45,778 - INFO - İşlenen: 61/118
+2025-09-05 14:22:46,963 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 14:22:46,973 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-05 14:22:48,079 - INFO - İşlenen: 71/118
+2025-09-05 14:22:50,169 - INFO - İşlenen: 81/118
+2025-09-05 14:22:52,423 - INFO - İşlenen: 91/118
+2025-09-05 14:22:55,626 - INFO - İşlenen: 101/118
+2025-09-05 14:22:56,687 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-05 14:22:56,688 - WARNING - SODA.IS için veri bulunamadı
+2025-09-05 14:22:57,985 - INFO - İşlenen: 111/118
+2025-09-05 14:22:58,718 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-05 14:22:59,753 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-05 14:23:00,094 - WARNING - TRHOL.IS için yeterli veri yok
+2025-09-05 14:23:00,121 - INFO - 112 hisse için teknik analiz tamamlandı
+2025-09-05 14:23:00,133 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-05 14:23:00,136 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-05 14:23:00,616 - INFO - Toplam 0 haber toplandı
+2025-09-05 14:23:00,717 - INFO - Tavan tahminleri yapılıyor...
+2025-09-05 14:23:00,721 - INFO - 38 potansiyel tavan hissesi bulundu
+2025-09-05 14:23:00,722 - INFO - Telegram mesajı gönderiliyor...
+2025-09-05 14:23:01,119 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-05 14:23:01,122 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-05 14:23:01,122 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-05 14:23:01,123 - INFO - Günlük analiz tamamlandı
+2025-09-05 14:23:01,124 - INFO - Sistem başlatıldı. Manuel test tamamlandı.
+2025-09-09 16:16:50,755 - INFO - BİST Analiz Zamanlayıcı başlatıldı
+2025-09-09 16:16:50,758 - INFO - Test analizi çalıştırılıyor...
+2025-09-09 16:16:50,758 - INFO - BİST Analiz Sistemi başlatılıyor...
+2025-09-09 16:16:50,758 - INFO - Toplam 118 BİST sembolü yüklendi
+2025-09-09 16:16:50,781 - INFO - Telegram bot başlatıldı
+2025-09-09 16:16:50,781 - INFO - Kayıtlı model bulunamadı
+2025-09-09 16:16:50,781 - INFO - Tüm modüller başlatıldı
+2025-09-09 16:16:50,781 - INFO - Günlük analiz başlatılıyor...
+2025-09-09 16:16:50,781 - INFO - Bugün tavan yapan hisseler analiz ediliyor...
+2025-09-09 16:16:50,781 - INFO - Bugün tavan yapan hisseler aranıyor...
+2025-09-09 16:16:50,782 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-09 16:16:52,040 - INFO - İşlenen: 1/118
+2025-09-09 16:16:54,402 - INFO - İşlenen: 11/118
+2025-09-09 16:16:56,663 - INFO - İşlenen: 21/118
+2025-09-09 16:16:57,147 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=2d)
+2025-09-09 16:16:57,151 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-09 16:16:58,754 - INFO - İşlenen: 31/118
+2025-09-09 16:17:01,112 - INFO - İşlenen: 41/118
+2025-09-09 16:17:03,285 - INFO - İşlenen: 51/118
+2025-09-09 16:17:05,629 - INFO - İşlenen: 61/118
+2025-09-09 16:17:07,268 - ERROR - HTTP Error 404: 
+2025-09-09 16:17:07,631 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-09 16:17:07,631 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-09 16:17:08,714 - INFO - İşlenen: 71/118
+2025-09-09 16:17:10,781 - INFO - İşlenen: 81/118
+2025-09-09 16:17:12,890 - INFO - İşlenen: 91/118
+2025-09-09 16:17:15,252 - INFO - İşlenen: 101/118
+2025-09-09 16:17:16,703 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=2d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-09 16:17:16,703 - WARNING - SODA.IS için veri bulunamadı
+2025-09-09 16:17:17,944 - INFO - İşlenen: 111/118
+2025-09-09 16:17:18,587 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-09 16:17:18,607 - INFO - Bugün toplam 3 tavan yapan hisse bulundu
+2025-09-09 16:17:18,608 - INFO - 3 bugün tavan yapan hisse bulundu
+2025-09-09 16:17:18,608 - INFO - Önceki gün tavan yapan hisseler analiz ediliyor...
+2025-09-09 16:17:18,609 - INFO - Önceki gün tavan yapan hisseler aranıyor...
+2025-09-09 16:17:18,609 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-09 16:17:19,792 - INFO - İşlenen: 1/118
+2025-09-09 16:17:22,020 - INFO - İşlenen: 11/118
+2025-09-09 16:17:24,083 - INFO - İşlenen: 21/118
+2025-09-09 16:17:24,567 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=5d)
+2025-09-09 16:17:24,573 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-09 16:17:26,129 - INFO - İşlenen: 31/118
+2025-09-09 16:17:28,387 - INFO - İşlenen: 41/118
+2025-09-09 16:17:30,718 - INFO - İşlenen: 51/118
+2025-09-09 16:17:32,716 - INFO - İşlenen: 61/118
+2025-09-09 16:17:33,795 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-09 16:17:33,795 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-09 16:17:34,904 - INFO - İşlenen: 71/118
+2025-09-09 16:17:36,709 - INFO - İşlenen: 81/118
+2025-09-09 16:17:38,847 - INFO - İşlenen: 91/118
+2025-09-09 16:17:40,888 - INFO - İşlenen: 101/118
+2025-09-09 16:17:41,859 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-09 16:17:41,859 - WARNING - SODA.IS için veri bulunamadı
+2025-09-09 16:17:43,190 - INFO - İşlenen: 111/118
+2025-09-09 16:17:43,816 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-09 16:17:43,842 - INFO - Toplam 3 tavan yapan hisse bulundu
+2025-09-09 16:17:43,845 - INFO - 3 tavan yapan hisse bulundu
+2025-09-09 16:17:43,845 - INFO - Teknik analiz yapılıyor...
+2025-09-09 16:17:43,846 - INFO - Tüm BİST hisseleri için veri çekiliyor...
+2025-09-09 16:17:44,992 - INFO - İşlenen: 1/118
+2025-09-09 16:17:47,146 - INFO - İşlenen: 11/118
+2025-09-09 16:17:49,465 - INFO - İşlenen: 21/118
+2025-09-09 16:17:49,872 - ERROR - $ALTIN.IS: possibly delisted; no price data found  (period=1mo)
+2025-09-09 16:17:49,881 - WARNING - ALTIN.IS için veri bulunamadı
+2025-09-09 16:17:51,382 - INFO - İşlenen: 31/118
+2025-09-09 16:17:54,023 - INFO - İşlenen: 41/118
+2025-09-09 16:17:56,349 - INFO - İşlenen: 51/118
+2025-09-09 16:17:58,492 - INFO - İşlenen: 61/118
+2025-09-09 16:17:59,653 - ERROR - $INCRM.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-09 16:17:59,654 - WARNING - INCRM.IS için veri bulunamadı
+2025-09-09 16:18:00,733 - INFO - İşlenen: 71/118
+2025-09-09 16:18:02,703 - INFO - İşlenen: 81/118
+2025-09-09 16:18:04,954 - INFO - İşlenen: 91/118
+2025-09-09 16:18:07,195 - INFO - İşlenen: 101/118
+2025-09-09 16:18:08,104 - ERROR - $SODA.IS: possibly delisted; no price data found  (period=1mo) (Yahoo error = "No data found, symbol may be delisted")
+2025-09-09 16:18:08,104 - WARNING - SODA.IS için veri bulunamadı
+2025-09-09 16:18:09,487 - INFO - İşlenen: 111/118
+2025-09-09 16:18:10,120 - INFO - Toplam 114 hisse için veri çekildi
+2025-09-09 16:18:10,920 - WARNING - ISKUR.IS için yeterli veri yok
+2025-09-09 16:18:11,336 - INFO - 113 hisse için teknik analiz tamamlandı
+2025-09-09 16:18:11,339 - INFO - Piyasa haberleri analiz ediliyor...
+2025-09-09 16:18:11,339 - INFO - Son 1 günün finansal haberleri toplanıyor...
+2025-09-09 16:18:12,781 - INFO - Toplam 0 haber toplandı
+2025-09-09 16:18:12,897 - INFO - Tavan tahminleri yapılıyor...
+2025-09-09 16:18:12,898 - INFO - 21 potansiyel tavan hissesi bulundu
+2025-09-09 16:18:12,898 - INFO - Telegram mesajı gönderiliyor...
+2025-09-09 16:18:13,346 - INFO - HTTP Request: POST https://api.telegram.org/bot7502364961:AAHjBdC4JHEi27K7hdGa3MelAir5VXXDtfs/sendMessage "HTTP/1.1 200 OK"
+2025-09-09 16:18:13,348 - INFO - Günlük analiz raporu Telegram'a gönderildi
+2025-09-09 16:18:13,348 - INFO - Telegram mesajı başarıyla gönderildi
+2025-09-09 16:18:13,348 - INFO - Günlük analiz tamamlandı
+2025-09-09 16:18:13,355 - INFO - Zamanlayıcı çalışıyor. Her gün 09:00'da analiz yapılacak.
